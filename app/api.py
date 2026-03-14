@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.router import datasets
+from app.routers import datasets
 
 app = FastAPI(title="AI Data Lake API", version="1.0")
 

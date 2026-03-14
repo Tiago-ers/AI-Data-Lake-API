@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "nome": "Lucas Ferreira",
+    "idade": 29,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Av. Paulista",
+      "numero": 1578,
+      "cidade": "São Paulo"
+    },
+    "estado": "SP",
+    "interesses": ["Futebol", "Tecnologia", "Viagens"]
+  },
+  {
+    "id": 2,
+    "nome": "Mariana Alves",
+    "idade": 34,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Rua das Laranjeiras",
+      "numero": 202,
+      "cidade": "Rio de Janeiro"
+    },
+    "estado": "RJ",
+    "interesses": ["Leitura", "Cinema"]
+  },
+  {
+    "id": 3,
+    "nome": "Carlos Drummond",
+    "idade": 45,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Rua da Bahia",
+      "numero": 1040,
+      "cidade": "Belo Horizonte"
+    },
+    "estado": "MG",
+    "interesses": ["Gastronomia", "História"]
+  },
+  {
+    "id": 4,
+    "nome": "Fernanda Lima",
+    "idade": 22,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Av. Sete de Setembro",
+      "numero": 500,
+      "cidade": "Curitiba"
+    },
+    "estado": "PR",
+    "interesses": ["Design", "Fotografia", "Moda"]
+  },
+  {
+    "id": 5,
+    "nome": "Roberto Santos",
+    "idade": 51,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Rua dos Andradas",
+      "numero": 10,
+      "cidade": "Porto Alegre"
+    },
+    "estado": "RS",
+    "interesses": ["Churrasco", "Futebol"]
+  },
+  {
+    "id": 6,
+    "nome": "Juliana Costa",
+    "idade": 27,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Rua Chile",
+      "numero": 55,
+      "cidade": "Salvador"
+    },
+    "estado": "BA",
+    "interesses": ["Música", "Dança", "Praia"]
+  },
+  {
+    "id": 7,
+    "nome": "Pedro Henrique",
+    "idade": 31,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Av. Boa Viagem",
+      "numero": 3300,
+      "cidade": "Recife"
+    },
+    "estado": "PE",
+    "interesses": ["Surf", "Tecnologia"]
+  },
+  {
+    "id": 8,
+    "nome": "Ana Paula",
+    "idade": 39,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Eixo Monumental",
+      "numero": 100,
+      "cidade": "Brasília"
+    },
+    "estado": "DF",
+    "interesses": ["Política", "Corridas de Rua"]
+  },
+  {
+    "id": 9,
+    "nome": "Gustavo Rocha",
+    "idade": 19,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Av. Beira Mar",
+      "numero": 120,
+      "cidade": "Fortaleza"
+    },
+    "estado": "CE",
+    "interesses": ["Videogames", "Anime"]
+  },
+  {
+    "id": 10,
+    "nome": "Camila Martins",
+    "idade": 25,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Rua 15 de Novembro",
+      "numero": 88,
+      "cidade": "Blumenau"
+    },
+    "estado": "SC",
+    "interesses": ["Cerveja Artesanal", "Viagens"]
+  },
+  {
+    "id": 11,
+    "nome": "Ricardo Oliveira",
+    "idade": 42,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Av. Tocantins",
+      "numero": 450,
+      "cidade": "Goiânia"
+    },
+    "estado": "GO",
+    "interesses": ["Sertanejo", "Carros"]
+  },
+  {
+    "id": 12,
+    "nome": "Beatriz Souza",
+    "idade": 28,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Av. do CPA",
+      "numero": 2000,
+      "cidade": "Cuiabá"
+    },
+    "estado": "MT",
+    "interesses": ["Natureza", "Animais"]
+  },
+  {
+    "id": 13,
+    "nome": "Felipe Nogueira",
+    "idade": 36,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Rua 13 de Maio",
+      "numero": 777,
+      "cidade": "Campinas"
+    },
+    "estado": "SP",
+    "interesses": ["Investimentos", "Economia"]
+  },
+  {
+    "id": 14,
+    "nome": "Larissa Mendes",
+    "idade": 24,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Av. Eduardo Ribeiro",
+      "numero": 300,
+      "cidade": "Manaus"
+    },
+    "estado": "AM",
+    "interesses": ["Culinária", "Teatro"]
+  },
+  {
+    "id": 15,
+    "nome": "Thiago Silva",
+    "idade": 33,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Rua Grande",
+      "numero": 55,
+      "cidade": "São Luís"
+    },
+    "estado": "MA",
+    "interesses": ["Reggae", "História"]
+  },
+  {
+    "id": 16,
+    "nome": "Patrícia Gomes",
+    "idade": 48,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Av. Afonso Pena",
+      "numero": 1200,
+      "cidade": "Campo Grande"
+    },
+    "estado": "MS",
+    "interesses": ["Jardinagem", "Decoração"]
+  },
+  {
+    "id": 17,
+    "nome": "André Luiz",
+    "idade": 26,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Rua da Aurora",
+      "numero": 100,
+      "cidade": "Recife"
+    },
+    "estado": "PE",
+    "interesses": ["Programação", "Hackathons"]
+  },
+  {
+    "id": 18,
+    "nome": "Sofia Dias",
+    "idade": 21,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Av. Rio Branco",
+      "numero": 400,
+      "cidade": "Vitória"
+    },
+    "estado": "ES",
+    "interesses": ["Voluntariado", "Yoga"]
+  },
+  {
+    "id": 19,
+    "nome": "Bruno Azevedo",
+    "idade": 30,
+    "sexo": "Masculino",
+    "endereco": {
+      "logradouro": "Av. Presidente Vargas",
+      "numero": 500,
+      "cidade": "Belém"
+    },
+    "estado": "PA",
+    "interesses": ["Açaí", "Futebol"]
+  },
+  {
+    "id": 20,
+    "nome": "Cláudia Ribeiro",
+    "idade": 55,
+    "sexo": "Feminino",
+    "endereco": {
+      "logradouro": "Rua Sergipe",
+      "numero": 230,
+      "cidade": "Londrina"
+    },
+    "estado": "PR",
+    "interesses": ["Artesanato", "Café"]
+  }
+]

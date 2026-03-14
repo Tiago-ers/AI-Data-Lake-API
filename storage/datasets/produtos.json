@@ -1,0 +1,262 @@
+[
+  {
+    "id_produto": 1001,
+    "nome": "Notebook Gamer XZ",
+    "categoria": "Eletrônicos",
+    "preco": 4500.90,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "TechOne",
+      "peso_kg": 2.5,
+      "cor": "Preto",
+      "voltagem": "Bivolt"
+    },
+    "tags": ["gamer", "computador", "alto desempenho"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 15 },
+      { "filial": "RJ_Centro", "quantidade": 4 }
+    ]
+  },
+  {
+    "id_produto": 1002,
+    "nome": "Smartphone Ultra 5G",
+    "categoria": "Eletrônicos",
+    "preco": 2899.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "CellMaster",
+      "peso_kg": 0.18,
+      "cor": "Azul",
+      "armazenamento": "256GB"
+    },
+    "tags": ["celular", "5g", "android"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 100 },
+      { "filial": "MG_BeloHorizonte", "quantidade": 20 }
+    ]
+  },
+  {
+    "id_produto": 1003,
+    "nome": "Cadeira Ergonômica Office",
+    "categoria": "Móveis",
+    "preco": 850.50,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "ConfortChair",
+      "peso_kg": 12.0,
+      "material": "Tela Mesh",
+      "cor": "Cinza"
+    },
+    "tags": ["escritorio", "ergonomia", "home office"],
+    "estoque_por_filial": [
+      { "filial": "RS_PortoAlegre", "quantidade": 5 }
+    ]
+  },
+  {
+    "id_produto": 1004,
+    "nome": "Cafeteira Expresso Automática",
+    "categoria": "Eletroportáteis",
+    "preco": 399.90,
+    "ativo": false,
+    "especificacoes": {
+      "marca": "CoffeeBest",
+      "peso_kg": 3.0,
+      "voltagem": "110v",
+      "cor": "Vermelho"
+    },
+    "tags": ["cozinha", "café", "promoção"],
+    "estoque_por_filial": []
+  },
+  {
+    "id_produto": 1005,
+    "nome": "Tênis de Corrida Speed",
+    "categoria": "Esportes",
+    "preco": 299.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "RunFast",
+      "peso_kg": 0.5,
+      "tamanho": 41,
+      "cor": "Verde Limão"
+    },
+    "tags": ["corrida", "tenis", "fitness"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 50 },
+      { "filial": "BA_Salvador", "quantidade": 12 },
+      { "filial": "PE_Recife", "quantidade": 8 }
+    ]
+  },
+  {
+    "id_produto": 1006,
+    "nome": "Monitor 27 Polegadas 4K",
+    "categoria": "Eletrônicos",
+    "preco": 1899.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "VisionScreen",
+      "peso_kg": 4.5,
+      "resolucao": "3840x2160",
+      "cor": "Preto"
+    },
+    "tags": ["monitor", "4k", "pc"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 8 }
+    ]
+  },
+  {
+    "id_produto": 1007,
+    "nome": "Mesa Digitalizadora Pro",
+    "categoria": "Periféricos",
+    "preco": 650.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "ArtPad",
+      "peso_kg": 0.8,
+      "conexao": "USB-C",
+      "cor": "Preto"
+    },
+    "tags": ["design", "arte", "desenho"],
+    "estoque_por_filial": [
+      { "filial": "RJ_Centro", "quantidade": 15 },
+      { "filial": "SP_Capital", "quantidade": 30 }
+    ]
+  },
+  {
+    "id_produto": 1008,
+    "nome": "Geladeira Frost Free",
+    "categoria": "Eletrodomésticos",
+    "preco": 3200.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "IceCool",
+      "peso_kg": 60.0,
+      "voltagem": "220v",
+      "capacidade": "400L"
+    },
+    "tags": ["cozinha", "geladeira", "frio"],
+    "estoque_por_filial": [
+      { "filial": "MG_BeloHorizonte", "quantidade": 3 }
+    ]
+  },
+  {
+    "id_produto": 1009,
+    "nome": "Livro: Engenharia de Dados Moderna",
+    "categoria": "Livros",
+    "preco": 89.90,
+    "ativo": true,
+    "especificacoes": {
+      "editora": "TechBooks",
+      "peso_kg": 0.4,
+      "paginas": 350,
+      "idioma": "Português"
+    },
+    "tags": ["leitura", "dados", "educacao"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 200 },
+      { "filial": "Online_Warehouse", "quantidade": 500 }
+    ]
+  },
+  {
+    "id_produto": 1010,
+    "nome": "Fone de Ouvido Bluetooth",
+    "categoria": "Áudio",
+    "preco": 150.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "SoundWave",
+      "peso_kg": 0.05,
+      "autonomia": "12 horas",
+      "cor": "Branco"
+    },
+    "tags": ["musica", "sem fio", "audio"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 60 },
+      { "filial": "RS_PortoAlegre", "quantidade": 25 }
+    ]
+  },
+  {
+    "id_produto": 1011,
+    "nome": "Smartwatch Fitness",
+    "categoria": "Wearables",
+    "preco": 450.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "FitTime",
+      "peso_kg": 0.03,
+      "resistencia_agua": "5ATM",
+      "cor": "Preto"
+    },
+    "tags": ["esporte", "relogio", "saude"],
+    "estoque_por_filial": [
+      { "filial": "RJ_Centro", "quantidade": 40 }
+    ]
+  },
+  {
+    "id_produto": 1012,
+    "nome": "Teclado Mecânico RGB",
+    "categoria": "Periféricos",
+    "preco": 320.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "KeyMaster",
+      "peso_kg": 1.1,
+      "switch": "Blue",
+      "layout": "ABNT2"
+    },
+    "tags": ["gamer", "teclado", "rgb"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 22 },
+      { "filial": "PR_Curitiba", "quantidade": 10 }
+    ]
+  },
+  {
+    "id_produto": 1013,
+    "nome": "Ventilador de Coluna",
+    "categoria": "Eletroportáteis",
+    "preco": 120.00,
+    "ativo": false,
+    "especificacoes": {
+      "marca": "VentoForte",
+      "peso_kg": 2.8,
+      "voltagem": "110v",
+      "cor": "Preto"
+    },
+    "tags": ["verao", "casa", "climatizacao"],
+    "estoque_por_filial": []
+  },
+  {
+    "id_produto": 1014,
+    "nome": "SSD NVMe 1TB",
+    "categoria": "Hardware",
+    "preco": 550.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "FastDisk",
+      "peso_kg": 0.01,
+      "leitura": "3500MB/s",
+      "interface": "M.2"
+    },
+    "tags": ["armazenamento", "pc", "upgrade"],
+    "estoque_por_filial": [
+      { "filial": "SP_Capital", "quantidade": 80 },
+      { "filial": "Online_Warehouse", "quantidade": 150 }
+    ]
+  },
+  {
+    "id_produto": 1015,
+    "nome": "Caixa de Som Portátil",
+    "categoria": "Áudio",
+    "preco": 220.00,
+    "ativo": true,
+    "especificacoes": {
+      "marca": "SoundBox",
+      "peso_kg": 0.6,
+      "potencia": "20W",
+      "cor": "Azul"
+    },
+    "tags": ["festa", "som", "bluetooth"],
+    "estoque_por_filial": [
+      { "filial": "BA_Salvador", "quantidade": 30 }
+    ]
+  }
+]
